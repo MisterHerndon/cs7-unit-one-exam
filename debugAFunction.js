@@ -1,10 +1,14 @@
-function makeKarelDoALittleDance {
-    for (let i = 0; i < 5 i++) {
-        move()
-        move()
+function makeKarelDoALittleDance() {
+    for let i = 0 i < 5; i++ 
+        move();
+        Move();
         turnAround();
         turnAround();
         turnAround();
         turnAround();
-        turnaround();
+        turnAround();
     }
+}
+
+
+
