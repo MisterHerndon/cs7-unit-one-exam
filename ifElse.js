@@ -1,7 +1,7 @@
-if(10 < 5) {
-    print("Mr Herndon rocks!")
+if(10 == 5) {
+    print("I like eggs!")
 } else {
-    print("Seventh Grade rocks!")
+    print("I like naps!")
 }
 
 
